@@ -7,19 +7,13 @@ module.exports = {
     {
       resolve: "gatsby-source-sanity",
       options: {
-        projectId: "3glx5xa2",
+        projectId: "ntxl1vt6",
         dataset: "production",
       },
     },
     "gatsby-plugin-emotion",
     "gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-image",
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: "",
-      },
-    },
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sitemap",
     {
