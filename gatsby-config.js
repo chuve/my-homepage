@@ -9,6 +9,10 @@ module.exports = {
       options: {
         projectId: "ntxl1vt6",
         dataset: "production",
+        overlayDrafts: true,
+        token:
+          "ski0K5HMDkuCjTlO9t8d48q9509FJ3v3PmCMgskznBWYuRLyti3pCWDfIS2OAOXqsGSr9hjFh3txm5KmOIuWY4ePtLaDJ5EKvA7KVkiUVcgSWP8DiPix6rqsplN4gc6azBFeNgzKOrCJWz9eqxQYJYXAdLoNEheH4UecnKJ4STpYtTHQWmEc",
+        watchMode: true,
       },
     },
     "gatsby-plugin-emotion",
